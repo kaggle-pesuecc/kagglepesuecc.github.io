@@ -29,7 +29,19 @@ body {
     margin: 10px;
 }
 
+.card img {
+    margin: 10px;
+}
+
 @media only screen and (max-width: 800px) {
+    
+    .team-row {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+
     .team-container {
         padding: 10px;
         display: flex;
