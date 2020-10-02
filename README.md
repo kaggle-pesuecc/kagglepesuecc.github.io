@@ -6,7 +6,7 @@ This is the Official Website for <b>Kagglerz - PESU ECC</b><br/>
 
 We are a group of data science enthusiast who push each other to learning, studying, inovating and discovering every aspect of Data science and Machine Learning.<br />
 We participate in competitions and write Blogs, Research materials based on our understandings of the field. Our current aim is to become expert in the field, give and take help where ever necessary.
-And<a href="https://kagglerz.github.io/"> this <a>is our official website.  
+<br /><b><a href="https://kagglerz.github.io/"> THIS <a> <b>is our official website.  
 
 You can take a look at our community members, work, goal, blogs and everything ML related on the link.
 
