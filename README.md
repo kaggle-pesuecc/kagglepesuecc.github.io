@@ -1,6 +1,6 @@
 # kagglerz PESU ECC
 
-<h1> Hola Amigos! </h1>
+<h2> Hola Amigos! </h2>
 
 This is the Official Website for <b>Kagglerz - PESU ECC</b><br/>
 
